@@ -6,6 +6,7 @@ __pycache__/
 cvgtext_runs/
 cvgtext_rawfusion_runs/
 cvgtext_runs_baseline_only/
+cvgtext_tcvd_runs/
 
 # C extensions
 *.so
